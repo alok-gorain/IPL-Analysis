@@ -1,4 +1,4 @@
-## IPL-Analysis
+## IPL Analysis Dashboard
 
 #### Created a comprehensive interactive dashboard for IPL (Indian Premier League) data analysis using Power BI, providing valuable insights into team performance, player statistics, and tournament trends.
 #### Integrated data from multiple sources to provide comprehensive analytics on batting, bowling, match results, seasonal wins, and toss decisions, enabling stakeholders to gain valuable insights and make data-driven decisions.
